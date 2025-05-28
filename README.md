@@ -6,7 +6,6 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# markdownの練習です！
 
 # Communicate using Markdown
 
@@ -26,7 +25,7 @@ _Great job adding headers to the file :sparkles:_
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
-###### Example
+##### Example
 
 ```md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
